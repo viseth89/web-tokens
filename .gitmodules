@@ -1,0 +1,3 @@
+[submodule "how-to-apir"]
+	path = how-to-apir
+	url = https://github.com/prof3ssorSt3v3/how-to-api.git
